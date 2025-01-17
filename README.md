@@ -1,5 +1,5 @@
 # **TUSH**
-## **T**emple **U**niveristy **S**Hell
+## **T**emple **U**niveristy **S**hell
 
 ### Build the executable file by running 
 ```bash
